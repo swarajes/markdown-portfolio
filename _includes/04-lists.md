@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Meta
+    * Facebook
+    * Instagram
+    * Whatsapp
+* Alphabet
+    * Google
+    * Gmail
+    * Youtube
